@@ -1,0 +1,42 @@
+[
+    {
+        "message": "Congratulations, you have won a free cash prize. Click here now.",
+        "label": "spam"
+    },
+    {
+        "message": "Urgent! Your bank account needs verification immediately.",
+        "label": "spam"
+    },
+    {
+        "message": "Limited time loan offer with guaranteed approval.",
+        "label": "spam"
+    },
+    {
+        "message": "Get cheap medicines online with free delivery.",
+        "label": "spam"
+    },
+    {
+        "message": "You are selected as a lucky winner. Claim your reward today.",
+        "label": "spam"
+    },
+    {
+        "message": "Team meeting moved to 4 PM. Please join on time.",
+        "label": "ham"
+    },
+    {
+        "message": "Can you review the attached project document?",
+        "label": "ham"
+    },
+    {
+        "message": "Your order has been shipped and will arrive tomorrow.",
+        "label": "ham"
+    },
+    {
+        "message": "Lunch at 1 PM? Let me know if that works.",
+        "label": "ham"
+    },
+    {
+        "message": "Please reset your password using the internal portal.",
+        "label": "ham"
+    }
+]
